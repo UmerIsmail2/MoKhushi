@@ -33,7 +33,7 @@
 - **Including Sustainability in Your Cloud Strategy** – LinkedIn Learning  
 - **GDPR Compliance: Essential Training** – LinkedIn Learning  
 - **Ethics and Law in Data Analytics** – LinkedIn Learning  
-
+- **1** – LinkedIn Learning
 ---
 
 ## Skills 
